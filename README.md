@@ -8,8 +8,16 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
+*the systematic application of engineering principles, methods and tools
+to the development and maintenance of high quality software systems.
+
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+
+(i). Planning and Reuirement :gathering and documenting user needs and system requirements.
+(ii). Design: create a high level detail design of the software architecture
+and the user interface. 
+(iii). Implimantation or Development : Translate design into functional software using programming languages and tools.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
